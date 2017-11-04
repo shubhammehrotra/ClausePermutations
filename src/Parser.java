@@ -22,10 +22,6 @@ import edu.stanford.nlp.trees.TypedDependency;
 
 class Parser {
 
-	/** This example shows a few more ways of providing input to a parser.
-	 *
-	 *  Usage: ParserDemo2 [grammar [textFile]]
-	 */
 	static String pID;
 	static String sLabel;
 	static int textCount = 0;
